@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Көрсету қашықтығын арттыру",
+    "key.render-distance.decrease": "Көрсету қашықтығын азайту",
+    "key.category.render-distance.keycategory": "Көрсету қашықтығының пернелері",
+    "msg.render-distance.increased": "Көрсету қашықтығы: %s",
+    "msg.render-distance.decreased": "Көрсету қашықтығы: %s",
+    "msg.render-distance.max": "Көрсету қашықтығы максимумда (32)",
+    "msg.render-distance.min": "Көрсету қашықтығы минимумда (2)"
+}

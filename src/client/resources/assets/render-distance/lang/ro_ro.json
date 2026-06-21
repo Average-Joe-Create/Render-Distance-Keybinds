@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Mărește distanța de randare",
+    "key.render-distance.decrease": "Micșorează distanța de randare",
+    "key.category.render-distance.keycategory": "Taste distanța de randare",
+    "msg.render-distance.increased": "Distanța de randare: %s",
+    "msg.render-distance.decreased": "Distanța de randare: %s",
+    "msg.render-distance.max": "Distanța de randare este deja la maximum (32)",
+    "msg.render-distance.min": "Distanța de randare este deja la minimum (2)"
+}

@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "render-distance",
+	"version": "${version}",
+	"name": "Render Distance Keybinds",
+	"description": "Add Render Distance Hotkeying back post 1.19",
+	"authors": [
+		"_Average_Joe"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/render-distance/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"renderdistance.modid.RenderDistance"
+		],
+		"client": [
+			"renderdistance.modid.client.RenderDistanceClient"
+		]
+	},
+	"mixins": [
+		"render-distance.mixins.json",
+		{
+			"config": "render-distance.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": ">=26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

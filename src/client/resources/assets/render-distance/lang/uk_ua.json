@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Збільшити відстань рендерингу",
+    "key.render-distance.decrease": "Зменшити відстань рендерингу",
+    "key.category.render-distance.keycategory": "Клавіші відстані рендерингу",
+    "msg.render-distance.increased": "Відстань рендерингу: %s",
+    "msg.render-distance.decreased": "Відстань рендерингу: %s",
+    "msg.render-distance.max": "Відстань рендерингу вже на максимумі (32)",
+    "msg.render-distance.min": "Відстань рендерингу вже на мінімумі (2)"
+}

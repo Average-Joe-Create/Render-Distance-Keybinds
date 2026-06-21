@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Увеличить дальность прорисовки",
+    "key.render-distance.decrease": "Уменьшить дальность прорисовки",
+    "key.category.render-distance.keycategory": "Клавиши дальности прорисовки",
+    "msg.render-distance.increased": "Дальность прорисовки: %s",
+    "msg.render-distance.decreased": "Дальность прорисовки: %s",
+    "msg.render-distance.max": "Дальность прорисовки уже на максимуме (32)",
+    "msg.render-distance.min": "Дальность прорисовки уже на минимуме (2)"
+}

@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "რენდერის მანძილის გაზრდა",
+    "key.render-distance.decrease": "რენდერის მანძილის შემცირება",
+    "key.category.render-distance.keycategory": "რენდერის მანძილის ღილაკები",
+    "msg.render-distance.increased": "რენდერის მანძილი: %s",
+    "msg.render-distance.decreased": "რენდერის მანძილი: %s",
+    "msg.render-distance.max": "რენდერის მანძილი უკვე მაქსიმალურია (32)",
+    "msg.render-distance.min": "რენდერის მანძილი უკვე მინიმალურია (2)"
+}

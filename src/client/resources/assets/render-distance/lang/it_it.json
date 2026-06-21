@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Aumenta distanza di rendering",
+    "key.render-distance.decrease": "Diminuisci distanza di rendering",
+    "key.category.render-distance.keycategory": "Tasti distanza di rendering",
+    "msg.render-distance.increased": "Distanza di rendering: %s",
+    "msg.render-distance.decreased": "Distanza di rendering: %s",
+    "msg.render-distance.max": "La distanza di rendering è già al massimo (32)",
+    "msg.render-distance.min": "La distanza di rendering è già al minimo (2)"
+}

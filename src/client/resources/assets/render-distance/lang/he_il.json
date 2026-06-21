@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "הגדל מרחק רינדור",
+    "key.render-distance.decrease": "הקטן מרחק רינדור",
+    "key.category.render-distance.keycategory": "מקשי מרחק רינדור",
+    "msg.render-distance.increased": "מרחק רינדור: %s",
+    "msg.render-distance.decreased": "מרחק רינדור: %s",
+    "msg.render-distance.max": "מרחק הרינדור כבר במקסימום (32)",
+    "msg.render-distance.min": "מרחק הרינדור כבר במינימום (2)"
+}

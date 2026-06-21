@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Bawanye oge oge",
+    "key.render-distance.decrease": "Belata oge oge",
+    "key.category.render-distance.keycategory": "Igodo oge oge",
+    "msg.render-distance.increased": "Oge oge: %s",
+    "msg.render-distance.decreased": "Oge oge: %s",
+    "msg.render-distance.max": "Oge oge adịla n'ogo kachasị elu (32)",
+    "msg.render-distance.min": "Oge oge adịla n'ogo kachasị ala (2)"
+}

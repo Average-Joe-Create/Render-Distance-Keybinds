@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Suurenda renderdusvahemaad",
+    "key.render-distance.decrease": "Vähenda renderdusvahemaad",
+    "key.category.render-distance.keycategory": "Renderdusvahemaa kiirklahvid",
+    "msg.render-distance.increased": "Renderdusvahemaa: %s",
+    "msg.render-distance.decreased": "Renderdusvahemaa: %s",
+    "msg.render-distance.max": "Renderdusvahemaa on juba maksimumis (32)",
+    "msg.render-distance.min": "Renderdusvahemaa on juba minimumis (2)"
+}
