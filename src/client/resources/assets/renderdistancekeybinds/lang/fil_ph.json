@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Dagdagan ang render distance",
+    "key.render-distance.decrease": "Bawasan ang render distance",
+    "key.category.render-distance.keycategory": "Mga keybind ng render distance",
+    "msg.render-distance.increased": "Render distance: %s",
+    "msg.render-distance.decreased": "Render distance: %s",
+    "msg.render-distance.max": "Nasa maximum na ang render distance (32)",
+    "msg.render-distance.min": "Nasa minimum na ang render distance (2)"
+}

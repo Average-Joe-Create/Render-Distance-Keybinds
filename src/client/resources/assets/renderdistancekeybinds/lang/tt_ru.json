@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Күрсәтү ераклыгын арттыру",
+    "key.render-distance.decrease": "Күрсәтү ераклыгын кимету",
+    "key.category.render-distance.keycategory": "Күрсәтү ераклыгы төймәләре",
+    "msg.render-distance.increased": "Күрсәтү ераклыгы: %s",
+    "msg.render-distance.decreased": "Күрсәтү ераклыгы: %s",
+    "msg.render-distance.max": "Күрсәтү ераклыгы инде максимумда (32)",
+    "msg.render-distance.min": "Күрсәтү ераклыгы инде минимумда (2)"
+}

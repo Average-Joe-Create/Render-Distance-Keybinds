@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Зголеми растојание на рендерирање",
+    "key.render-distance.decrease": "Намали растојание на рендерирање",
+    "key.category.render-distance.keycategory": "Копчиња за растојание на рендерирање",
+    "msg.render-distance.increased": "Растојание: %s",
+    "msg.render-distance.decreased": "Растојание: %s",
+    "msg.render-distance.max": "Растојанието е на максимум (32)",
+    "msg.render-distance.min": "Растојанието е на минимум (2)"
+}

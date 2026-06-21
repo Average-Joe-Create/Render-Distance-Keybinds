@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Rrit distancën e renderimit",
+    "key.render-distance.decrease": "Ul distancën e renderimit",
+    "key.category.render-distance.keycategory": "Çelësat e distancës së renderimit",
+    "msg.render-distance.increased": "Distanca e renderimit: %s",
+    "msg.render-distance.decreased": "Distanca e renderimit: %s",
+    "msg.render-distance.max": "Distanca e renderimit është tashmë në maksimum (32)",
+    "msg.render-distance.min": "Distanca e renderimit është tashmë në minimum (2)"
+}
