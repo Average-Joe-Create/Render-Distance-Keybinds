@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "增加渲染距離",
+    "key.render-distance.decrease": "減少渲染距離",
+    "key.category.render-distance.keycategory": "渲染距離快捷鍵",
+    "msg.render-distance.increased": "渲染距離：%s",
+    "msg.render-distance.decreased": "渲染距離：%s",
+    "msg.render-distance.max": "渲染距離已達到最大值（32）",
+    "msg.render-distance.min": "渲染距離已達到最小值（2）"
+}

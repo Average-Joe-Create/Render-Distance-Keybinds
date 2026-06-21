@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Padidinti atvaizdavimo atstumą",
+    "key.render-distance.decrease": "Sumažinti atvaizdavimo atstumą",
+    "key.category.render-distance.keycategory": "Atvaizdavimo atstumo spartieji klavišai",
+    "msg.render-distance.increased": "Atvaizdavimo atstumas: %s",
+    "msg.render-distance.decreased": "Atvaizdavimo atstumas: %s",
+    "msg.render-distance.max": "Atvaizdavimo atstumas jau yra maksimalus (32)",
+    "msg.render-distance.min": "Atvaizdavimo atstumas jau yra minimalus (2)"
+}

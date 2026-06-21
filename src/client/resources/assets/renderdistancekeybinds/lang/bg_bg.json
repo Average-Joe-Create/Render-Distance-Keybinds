@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Увеличи разстоянието на рендиране",
+    "key.render-distance.decrease": "Намали разстоянието на рендиране",
+    "key.category.render-distance.keycategory": "Клавиши за разстояние на рендиране",
+    "msg.render-distance.increased": "Разстояние на рендиране: %s",
+    "msg.render-distance.decreased": "Разстояние на рендиране: %s",
+    "msg.render-distance.max": "Разстоянието е вече на максимум (32)",
+    "msg.render-distance.min": "Разстоянието е вече на минимум (2)"
+}

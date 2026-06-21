@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Kordhi fogaanta muuqaalka",
+    "key.render-distance.decrease": "Yaree fogaanta muuqaalka",
+    "key.category.render-distance.keycategory": "Fure-xididdada fogaanta muuqaalka",
+    "msg.render-distance.increased": "Fogaanta muuqaalka: %s",
+    "msg.render-distance.decreased": "Fogaanta muuqaalka: %s",
+    "msg.render-distance.max": "Fogaanta muuqaalka waxay ku taal ugu sareysa (32)",
+    "msg.render-distance.min": "Fogaanta muuqaalka waxay ku taal ugu hooseysa (2)"
+}

@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Renderdistanz erhéijen",
+    "key.render-distance.decrease": "Renderdistanz ernidregen",
+    "key.category.render-distance.keycategory": "Renderdistanz-Tastekombinatiounen",
+    "msg.render-distance.increased": "Renderdistanz: %s",
+    "msg.render-distance.decreased": "Renderdistanz: %s",
+    "msg.render-distance.max": "Renderdistanz ass scho op Maximum (32)",
+    "msg.render-distance.min": "Renderdistanz ass scho op Minimum (2)"
+}

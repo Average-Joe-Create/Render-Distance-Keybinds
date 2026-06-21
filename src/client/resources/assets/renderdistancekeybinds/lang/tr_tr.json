@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Görüntüleme mesafesini artır",
+    "key.render-distance.decrease": "Görüntüleme mesafesini azalt",
+    "key.category.render-distance.keycategory": "Görüntüleme mesafesi kısayolları",
+    "msg.render-distance.increased": "Görüntüleme mesafesi: %s",
+    "msg.render-distance.decreased": "Görüntüleme mesafesi: %s",
+    "msg.render-distance.max": "Görüntüleme mesafesi zaten maksimumda (32)",
+    "msg.render-distance.min": "Görüntüleme mesafesi zaten minimumda (2)"
+}
