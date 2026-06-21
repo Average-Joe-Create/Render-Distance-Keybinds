@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "ரெண்டர் தூரத்தை அதிகரிக்கவும்",
-    "key.render-distance.decrease": "ரெண்டர் தூரத்தை குறைக்கவும்",
-    "key.category.render-distance.keycategory": "ரெண்டர் தூர விசை பிணைப்புகள்",
-    "msg.render-distance.increased": "ரெண்டர் தூரம்: %s",
-    "msg.render-distance.decreased": "ரெண்டர் தூரம்: %s",
-    "msg.render-distance.max": "ரெண்டர் தூரம் ஏற்கனவே அதிகபட்சம் (32)",
-    "msg.render-distance.min": "ரெண்டர் தூரம் ஏற்கனவே குறைந்தபட்சம் (2)"
-}

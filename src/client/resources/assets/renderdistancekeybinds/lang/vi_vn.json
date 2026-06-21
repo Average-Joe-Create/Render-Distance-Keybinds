@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Tăng khoảng cách kết xuất",
-    "key.render-distance.decrease": "Giảm khoảng cách kết xuất",
-    "key.category.render-distance.keycategory": "Phím tắt khoảng cách kết xuất",
-    "msg.render-distance.increased": "Khoảng cách kết xuất: %s",
-    "msg.render-distance.decreased": "Khoảng cách kết xuất: %s",
-    "msg.render-distance.max": "Khoảng cách kết xuất đã ở mức tối đa (32)",
-    "msg.render-distance.min": "Khoảng cách kết xuất đã ở mức tối thiểu (2)"
-}

@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Darstellungsdistanz erhöhen",
-    "key.render-distance.decrease": "Darstellungsdistanz verringern",
-    "key.category.render-distance.keycategory": "Sichtweiten-Tastenkürzel",
-    "msg.render-distance.increased": "Darstellungsdistanz: %s",
-    "msg.render-distance.decreased": "Darstellungsdistanz: %s",
-    "msg.render-distance.max": "Darstellungsdistanz ist bereits auf Maximum (32)",
-    "msg.render-distance.min": "Darstellungsdistanz ist bereits auf Minimum (2)"
-}

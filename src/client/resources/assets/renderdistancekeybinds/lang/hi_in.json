@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "रेंडर दूरी बढ़ाएं",
-    "key.render-distance.decrease": "रेंडर दूरी घटाएं",
-    "key.category.render-distance.keycategory": "रेंडर दूरी कीबाइंड",
-    "msg.render-distance.increased": "रेंडर दूरी: %s",
-    "msg.render-distance.decreased": "रेंडर दूरी: %s",
-    "msg.render-distance.max": "रेंडर दूरी पहले से अधिकतम पर है (32)",
-    "msg.render-distance.min": "रेंडर दूरी पहले से न्यूनतम पर है (2)"
-}

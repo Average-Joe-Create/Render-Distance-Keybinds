@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Palielināt renderēšanas attālumu",
-    "key.render-distance.decrease": "Samazināt renderēšanas attālumu",
-    "key.category.render-distance.keycategory": "Renderēšanas attāluma taustiņi",
-    "msg.render-distance.increased": "Renderēšanas attālums: %s",
-    "msg.render-distance.decreased": "Renderēšanas attālums: %s",
-    "msg.render-distance.max": "Renderēšanas attālums jau ir maksimāls (32)",
-    "msg.render-distance.min": "Renderēšanas attālums jau ir minimāls (2)"
-}

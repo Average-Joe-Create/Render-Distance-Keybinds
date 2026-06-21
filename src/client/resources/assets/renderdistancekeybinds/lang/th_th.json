@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "เพิ่มระยะการแสดงผล",
-    "key.render-distance.decrease": "ลดระยะการแสดงผล",
-    "key.category.render-distance.keycategory": "ปุ่มลัดระยะการแสดงผล",
-    "msg.render-distance.increased": "ระยะการแสดงผล: %s",
-    "msg.render-distance.decreased": "ระยะการแสดงผล: %s",
-    "msg.render-distance.max": "ระยะการแสดงผลอยู่ที่สูงสุดแล้ว (32)",
-    "msg.render-distance.min": "ระยะการแสดงผลอยู่ที่ต่ำสุดแล้ว (2)"
-}

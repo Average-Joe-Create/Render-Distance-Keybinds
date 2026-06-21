@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Sichtweite erhöhen",
-    "key.render-distance.decrease": "Sichtweite verringern",
-    "key.category.render-distance.keycategory": "Sichtweiten-Tastenkürzel",
-    "msg.render-distance.increased": "Sichtweite: %s",
-    "msg.render-distance.decreased": "Sichtweite: %s",
-    "msg.render-distance.max": "Sichtweite ist bereits auf Maximum (32)",
-    "msg.render-distance.min": "Sichtweite ist bereits auf Minimum (2)"
-}

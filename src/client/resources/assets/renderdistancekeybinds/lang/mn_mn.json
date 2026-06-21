@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Рендерийн зайг нэмэгдүүлэх",
-    "key.render-distance.decrease": "Рендерийн зайг багасгах",
-    "key.category.render-distance.keycategory": "Рендерийн зайн товчлуурууд",
-    "msg.render-distance.increased": "Рендерийн зай: %s",
-    "msg.render-distance.decreased": "Рендерийн зай: %s",
-    "msg.render-distance.max": "Рендерийн зай аль хэдийн хамгийн их (32)",
-    "msg.render-distance.min": "Рендерийн зай аль хэдийн хамгийн бага (2)"
-}

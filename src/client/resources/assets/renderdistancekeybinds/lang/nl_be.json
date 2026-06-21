@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Weergaveafstand verhogen",
-    "key.render-distance.decrease": "Weergaveafstand verlagen",
-    "key.category.render-distance.keycategory": "Weergaveafstand-toetsen",
-    "msg.render-distance.increased": "Weergaveafstand: %s",
-    "msg.render-distance.decreased": "Weergaveafstand: %s",
-    "msg.render-distance.max": "Weergaveafstand is al op maximum (32)",
-    "msg.render-distance.min": "Weergaveafstand is al op minimum (2)"
-}

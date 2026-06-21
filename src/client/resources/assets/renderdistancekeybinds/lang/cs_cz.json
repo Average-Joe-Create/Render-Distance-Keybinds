@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Zvýšit vzdálenost vykreslování",
-    "key.render-distance.decrease": "Snížit vzdálenost vykreslování",
-    "key.category.render-distance.keycategory": "Klávesy vzdálenosti vykreslování",
-    "msg.render-distance.increased": "Vzdálenost vykreslování: %s",
-    "msg.render-distance.decreased": "Vzdálenost vykreslování: %s",
-    "msg.render-distance.max": "Vzdálenost vykreslování je již na maximu (32)",
-    "msg.render-distance.min": "Vzdálenost vykreslování je již na minimu (2)"
-}

@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "ເພີ່ມໄລຍະການສະແດງຜົນ",
-    "key.render-distance.decrease": "ຫຼຸດໄລຍະການສະແດງຜົນ",
-    "key.category.render-distance.keycategory": "ປຸ່ມລັດໄລຍະການສະແດງຜົນ",
-    "msg.render-distance.increased": "ໄລຍະການສະແດງຜົນ: %s",
-    "msg.render-distance.decreased": "ໄລຍະການສະແດງຜົນ: %s",
-    "msg.render-distance.max": "ໄລຍະການສະແດງຜົນຢູ່ທີ່ສູງສຸດແລ້ວ (32)",
-    "msg.render-distance.min": "ໄລຍະການສະແດງຜົນຢູ່ທີ່ຕ່ຳສຸດແລ້ວ (2)"
-}

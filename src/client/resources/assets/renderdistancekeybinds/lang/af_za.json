@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Verhoog weergawe-afstand",
-    "key.render-distance.decrease": "Verminder weergawe-afstand",
-    "key.category.render-distance.keycategory": "Weergawe-afstand-sleutelbindings",
-    "msg.render-distance.increased": "Weergawe-afstand: %s",
-    "msg.render-distance.decreased": "Weergawe-afstand: %s",
-    "msg.render-distance.max": "Weergawe-afstand is reeds op maksimum (32)",
-    "msg.render-distance.min": "Weergawe-afstand is reeds op minimum (2)"
-}

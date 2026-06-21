@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Augmentar la distància de renderització",
-    "key.render-distance.decrease": "Reduir la distància de renderització",
-    "key.category.render-distance.keycategory": "Tecles de distància de renderització",
-    "msg.render-distance.increased": "Distància de renderització: %s",
-    "msg.render-distance.decreased": "Distància de renderització: %s",
-    "msg.render-distance.max": "La distància de renderització ja és al màxim (32)",
-    "msg.render-distance.min": "La distància de renderització ja és al mínim (2)"
-}
