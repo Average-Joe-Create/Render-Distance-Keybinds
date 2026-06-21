@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Αύξηση απόστασης απόδοσης",
+    "key.render-distance.decrease": "Μείωση απόστασης απόδοσης",
+    "key.category.render-distance.keycategory": "Πλήκτρα απόστασης απόδοσης",
+    "msg.render-distance.increased": "Απόσταση απόδοσης: %s",
+    "msg.render-distance.decreased": "Απόσταση απόδοσης: %s",
+    "msg.render-distance.max": "Η απόσταση απόδοσης είναι ήδη στο μέγιστο (32)",
+    "msg.render-distance.min": "Η απόσταση απόδοσης είναι ήδη στο ελάχιστο (2)"
+}

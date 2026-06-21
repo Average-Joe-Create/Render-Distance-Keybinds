@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "ರೆಂಡರ್ ದೂರವನ್ನು ಹೆಚ್ಚಿಸಿ",
+    "key.render-distance.decrease": "ರೆಂಡರ್ ದೂರವನ್ನು ಕಡಿಮೆ ಮಾಡಿ",
+    "key.category.render-distance.keycategory": "ರೆಂಡರ್ ದೂರ ಕೀಬೈಂಡ್‌ಗಳು",
+    "msg.render-distance.increased": "ರೆಂಡರ್ ದೂರ: %s",
+    "msg.render-distance.decreased": "ರೆಂಡರ್ ದೂರ: %s",
+    "msg.render-distance.max": "ರೆಂಡರ್ ದೂರ ಈಗಾಗಲೇ ಗರಿಷ್ಠವಾಗಿದೆ (32)",
+    "msg.render-distance.min": "ರೆಂಡರ್ ದೂರ ಈಗಾಗಲೇ ಕನಿಷ್ಠವಾಗಿದೆ (2)"
+}

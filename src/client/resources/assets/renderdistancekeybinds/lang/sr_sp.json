@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Povećaj udaljenost renderovanja",
+    "key.render-distance.decrease": "Smanji udaljenost renderovanja",
+    "key.category.render-distance.keycategory": "Prečice za udaljenost renderovanja",
+    "msg.render-distance.increased": "Udaljenost: %s",
+    "msg.render-distance.decreased": "Udaljenost: %s",
+    "msg.render-distance.max": "Udaljenost je već na maksimumu (32)",
+    "msg.render-distance.min": "Udaljenost je već na minimumu (2)"
+}

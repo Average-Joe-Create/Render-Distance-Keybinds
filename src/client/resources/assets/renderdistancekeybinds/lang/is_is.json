@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Auka myndunarfjarlægð",
+    "key.render-distance.decrease": "Minnka myndunarfjarlægð",
+    "key.category.render-distance.keycategory": "Myndunarfjarlægð-flýtilyklar",
+    "msg.render-distance.increased": "Myndunarfjarlægð: %s",
+    "msg.render-distance.decreased": "Myndunarfjarlægð: %s",
+    "msg.render-distance.max": "Myndunarfjarlægð er þegar á hámarki (32)",
+    "msg.render-distance.min": "Myndunarfjarlægð er þegar á lágmarki (2)"
+}

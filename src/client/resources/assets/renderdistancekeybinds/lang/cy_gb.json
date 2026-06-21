@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Cynyddu pellter rendro",
+    "key.render-distance.decrease": "Lleihau pellter rendro",
+    "key.category.render-distance.keycategory": "Allweddi pellter rendro",
+    "msg.render-distance.increased": "Pellter rendro: %s",
+    "msg.render-distance.decreased": "Pellter rendro: %s",
+    "msg.render-distance.max": "Mae pellter rendro eisoes ar y mwyaf (32)",
+    "msg.render-distance.min": "Mae pellter rendro eisoes ar y lleiaf (2)"
+}
