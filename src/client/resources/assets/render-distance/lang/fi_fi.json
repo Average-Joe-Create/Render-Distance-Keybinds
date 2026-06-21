@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Lisää renderöintietäisyyttä",
-    "key.render-distance.decrease": "Vähennä renderöintietäisyyttä",
-    "key.category.render-distance.keycategory": "Renderöintietäisyyden pikanäppäimet",
-    "msg.render-distance.increased": "Renderöintietäisyys: %s",
-    "msg.render-distance.decreased": "Renderöintietäisyys: %s",
-    "msg.render-distance.max": "Renderöintietäisyys on jo maksimissa (32)",
-    "msg.render-distance.min": "Renderöintietäisyys on jo minimissä (2)"
-}

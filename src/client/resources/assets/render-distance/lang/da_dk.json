@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Øg renderafstand",
-    "key.render-distance.decrease": "Reducer renderafstand",
-    "key.category.render-distance.keycategory": "Renderafstand-genvejstaster",
-    "msg.render-distance.increased": "Renderafstand: %s",
-    "msg.render-distance.decreased": "Renderafstand: %s",
-    "msg.render-distance.max": "Renderafstand er allerede på maksimum (32)",
-    "msg.render-distance.min": "Renderafstand er allerede på minimum (2)"
-}

@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Renderelési távolság növelése",
-    "key.render-distance.decrease": "Renderelési távolság csökkentése",
-    "key.category.render-distance.keycategory": "Renderelési távolság billentyűk",
-    "msg.render-distance.increased": "Renderelési távolság: %s",
-    "msg.render-distance.decreased": "Renderelési távolság: %s",
-    "msg.render-distance.max": "A renderelési távolság már maximumon van (32)",
-    "msg.render-distance.min": "A renderelési távolság már minimumon van (2)"
-}

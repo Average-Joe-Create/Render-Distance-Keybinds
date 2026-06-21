@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Povećaj udaljenost iscrtavanja",
-    "key.render-distance.decrease": "Smanji udaljenost iscrtavanja",
-    "key.category.render-distance.keycategory": "Tipke udaljenosti iscrtavanja",
-    "msg.render-distance.increased": "Udaljenost iscrtavanja: %s",
-    "msg.render-distance.decreased": "Udaljenost iscrtavanja: %s",
-    "msg.render-distance.max": "Udaljenost je već na maksimumu (32)",
-    "msg.render-distance.min": "Udaljenost je već na minimumu (2)"
-}

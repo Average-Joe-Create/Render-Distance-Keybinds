@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Ongeza umbali wa kuonyesha",
-    "key.render-distance.decrease": "Punguza umbali wa kuonyesha",
-    "key.category.render-distance.keycategory": "Vifupisho vya umbali wa kuonyesha",
-    "msg.render-distance.increased": "Umbali wa kuonyesha: %s",
-    "msg.render-distance.decreased": "Umbali wa kuonyesha: %s",
-    "msg.render-distance.max": "Umbali wa kuonyesha uko kwenye kiwango cha juu (32)",
-    "msg.render-distance.min": "Umbali wa kuonyesha uko kwenye kiwango cha chini (2)"
-}

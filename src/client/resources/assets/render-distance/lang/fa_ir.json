@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "افزایش فاصله رندر",
-    "key.render-distance.decrease": "کاهش فاصله رندر",
-    "key.category.render-distance.keycategory": "کلیدهای فاصله رندر",
-    "msg.render-distance.increased": "فاصله رندر: %s",
-    "msg.render-distance.decreased": "فاصله رندر: %s",
-    "msg.render-distance.max": "فاصله رندر در حداکثر است (32)",
-    "msg.render-distance.min": "فاصله رندر در حداقل است (2)"
-}

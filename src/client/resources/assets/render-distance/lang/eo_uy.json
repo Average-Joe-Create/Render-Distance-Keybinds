@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Pligrandigi renderan distancon",
-    "key.render-distance.decrease": "Malgrandigi renderan distancon",
-    "key.category.render-distance.keycategory": "Renderaj distancaj klavoj",
-    "msg.render-distance.increased": "Rendera distanco: %s",
-    "msg.render-distance.decreased": "Rendera distanco: %s",
-    "msg.render-distance.max": "Rendera distanco jam estas maksimuma (32)",
-    "msg.render-distance.min": "Rendera distanco jam estas minimuma (2)"
-}

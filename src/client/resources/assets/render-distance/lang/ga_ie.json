@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Méadaigh an fad rindreála",
-    "key.render-distance.decrease": "Laghdaigh an fad rindreála",
-    "key.category.render-distance.keycategory": "Eochracha fad rindreála",
-    "msg.render-distance.increased": "Fad rindreála: %s",
-    "msg.render-distance.decreased": "Fad rindreála: %s",
-    "msg.render-distance.max": "Tá an fad rindreála ar an uasmhéid cheana (32)",
-    "msg.render-distance.min": "Tá an fad rindreála ar an íosmhéid cheana (2)"
-}

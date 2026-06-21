@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Errendaketa-distantzia handitu",
-    "key.render-distance.decrease": "Errendaketa-distantzia txikitu",
-    "key.category.render-distance.keycategory": "Errendaketa-distantzia teklak",
-    "msg.render-distance.increased": "Errendaketa-distantzia: %s",
-    "msg.render-distance.decreased": "Errendaketa-distantzia: %s",
-    "msg.render-distance.max": "Errendaketa-distantzia dagoeneko maximoan dago (32)",
-    "msg.render-distance.min": "Errendaketa-distantzia dagoeneko minimoan dago (2)"
-}

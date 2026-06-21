@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Öka renderingsavstånd",
-    "key.render-distance.decrease": "Minska renderingsavstånd",
-    "key.category.render-distance.keycategory": "Renderingsavstånd-tangenter",
-    "msg.render-distance.increased": "Renderingsavstånd: %s",
-    "msg.render-distance.decreased": "Renderingsavstånd: %s",
-    "msg.render-distance.max": "Renderingsavstånd är redan på maximum (32)",
-    "msg.render-distance.min": "Renderingsavstånd är redan på minimum (2)"
-}

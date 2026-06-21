@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "زيادة مسافة العرض",
-    "key.render-distance.decrease": "تقليل مسافة العرض",
-    "key.category.render-distance.keycategory": "مفاتيح مسافة العرض",
-    "msg.render-distance.increased": "مسافة العرض: %s",
-    "msg.render-distance.decreased": "مسافة العرض: %s",
-    "msg.render-distance.max": "مسافة العرض بالفعل عند الحد الأقصى (32)",
-    "msg.render-distance.min": "مسافة العرض بالفعل عند الحد الأدنى (2)"
-}

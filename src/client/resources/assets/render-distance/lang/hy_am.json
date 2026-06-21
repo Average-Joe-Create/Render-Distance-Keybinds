@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Ավելացնել մատուցման հեռավորությունը",
-    "key.render-distance.decrease": "Նվազեցնել մատուցման հեռավորությունը",
-    "key.category.render-distance.keycategory": "Մատուցման հեռավորության ստեղներ",
-    "msg.render-distance.increased": "Մատուցման հեռավորություն: %s",
-    "msg.render-distance.decreased": "Մատուցման հեռավորություն: %s",
-    "msg.render-distance.max": "Մատուցման հեռավորությունը արդեն առավելագույնն է (32)",
-    "msg.render-distance.min": "Մատուցման հեռավորությունը արդեն նվազագույնն է (2)"
-}

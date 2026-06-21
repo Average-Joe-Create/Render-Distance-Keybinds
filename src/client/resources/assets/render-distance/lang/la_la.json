@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Augere distantiam reddendi",
-    "key.render-distance.decrease": "Minuere distantiam reddendi",
-    "key.category.render-distance.keycategory": "Claves distantiae reddendi",
-    "msg.render-distance.increased": "Distantia reddendi: %s",
-    "msg.render-distance.decreased": "Distantia reddendi: %s",
-    "msg.render-distance.max": "Distantia reddendi iam maxima est (32)",
-    "msg.render-distance.min": "Distantia reddendi iam minima est (2)"
-}

@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Auk rendravstand",
-    "key.render-distance.decrease": "Mink rendravstand",
-    "key.category.render-distance.keycategory": "Rendravstand-hurtigtastar",
-    "msg.render-distance.increased": "Rendravstand: %s",
-    "msg.render-distance.decreased": "Rendravstand: %s",
-    "msg.render-distance.max": "Rendravstand er allereie på maksimum (32)",
-    "msg.render-distance.min": "Rendravstand er allereie på minimum (2)"
-}

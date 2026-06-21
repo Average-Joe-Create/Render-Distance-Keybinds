@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Increase ye Render Distance",
-    "key.render-distance.decrease": "Decrease ye Render Distance",
-    "key.category.render-distance.keycategory": "Render Distance Keybinds",
-    "msg.render-distance.increased": "Render distance: %s",
-    "msg.render-distance.decreased": "Render distance: %s",
-    "msg.render-distance.max": "Render distance be already at maximum (32)",
-    "msg.render-distance.min": "Render distance be already at minimum (2)"
-}

@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Tingkatkan jarak render",
-    "key.render-distance.decrease": "Kurangkan jarak render",
-    "key.category.render-distance.keycategory": "Pintasan jarak render",
-    "msg.render-distance.increased": "Jarak render: %s",
-    "msg.render-distance.decreased": "Jarak render: %s",
-    "msg.render-distance.max": "Jarak render sudah maksimum (32)",
-    "msg.render-distance.min": "Jarak render sudah minimum (2)"
-}

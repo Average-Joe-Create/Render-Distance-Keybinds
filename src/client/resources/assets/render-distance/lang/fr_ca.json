@@ -1,9 +1,0 @@
-{
-    "key.render-distance.increase": "Augmenter la distance de rendu",
-    "key.render-distance.decrease": "Diminuer la distance de rendu",
-    "key.category.render-distance.keycategory": "Touches de distance de rendu",
-    "msg.render-distance.increased": "Distance de rendu : %s",
-    "msg.render-distance.decreased": "Distance de rendu : %s",
-    "msg.render-distance.max": "La distance de rendu est au maximum (32)",
-    "msg.render-distance.min": "La distance de rendu est au minimum (2)"
-}
