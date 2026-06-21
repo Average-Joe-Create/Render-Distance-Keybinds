@@ -8,10 +8,10 @@
 		"_Average_Joe"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
-	},
-	"license": "CC0-1.0",
+        "homepage": "https://github.com/Average-Joe-Create/Render-Distance-Keybinds",
+        "sources": "https://github.com/Average-Joe-Create/Render-Distance-Keybinds"
+    },
+	"license": "MIT",
 	"icon": "assets/renderdistancekeybinds/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -31,7 +31,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.19.3",
-		"minecraft": ">=1.21.9",
+		"minecraft": ">=1.21.9 <=1.21.11",
 		"java": ">=21",
 		"fabric-api": "*"
 	}
