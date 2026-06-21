@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "描画距離を増やす",
+    "key.render-distance.decrease": "描画距離を減らす",
+    "key.category.render-distance.keycategory": "描画距離キーバインド",
+    "msg.render-distance.increased": "描画距離：%s",
+    "msg.render-distance.decreased": "描画距離：%s",
+    "msg.render-distance.max": "描画距離はすでに最大（32）です",
+    "msg.render-distance.min": "描画距離はすでに最小（2）です"
+}

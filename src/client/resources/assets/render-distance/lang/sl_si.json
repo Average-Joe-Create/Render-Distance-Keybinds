@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Povečaj razdaljo upodabljanja",
+    "key.render-distance.decrease": "Zmanjšaj razdaljo upodabljanja",
+    "key.category.render-distance.keycategory": "Tipke razdalje upodabljanja",
+    "msg.render-distance.increased": "Razdalja upodabljanja: %s",
+    "msg.render-distance.decreased": "Razdalja upodabljanja: %s",
+    "msg.render-distance.max": "Razdalja je že na maksimumu (32)",
+    "msg.render-distance.min": "Razdalja je že na minimumu (2)"
+}

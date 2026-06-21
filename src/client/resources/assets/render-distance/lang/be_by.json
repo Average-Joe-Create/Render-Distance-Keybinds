@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Павялічыць адлегласць прагляду",
+    "key.render-distance.decrease": "Паменшыць адлегласць прагляду",
+    "key.category.render-distance.keycategory": "Клавішы адлегласці прагляду",
+    "msg.render-distance.increased": "Адлегласць прагляду: %s",
+    "msg.render-distance.decreased": "Адлегласць прагляду: %s",
+    "msg.render-distance.max": "Адлегласць прагляду ўжо на максімуме (32)",
+    "msg.render-distance.min": "Адлегласць прагляду ўжо на мінімуме (2)"
+}

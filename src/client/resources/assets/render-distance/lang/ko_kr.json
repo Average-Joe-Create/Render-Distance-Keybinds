@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "렌더 거리 증가",
+    "key.render-distance.decrease": "렌더 거리 감소",
+    "key.category.render-distance.keycategory": "렌더 거리 단축키",
+    "msg.render-distance.increased": "렌더 거리: %s",
+    "msg.render-distance.decreased": "렌더 거리: %s",
+    "msg.render-distance.max": "렌더 거리가 이미 최대(32)입니다",
+    "msg.render-distance.min": "렌더 거리가 이미 최소(2)입니다"
+}

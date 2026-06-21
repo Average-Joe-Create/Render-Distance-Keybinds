@@ -1,0 +1,9 @@
+{
+    "key.render-distance.increase": "Pọ si ijinna fifi han",
+    "key.render-distance.decrease": "Din ijinna fifi han",
+    "key.category.render-distance.keycategory": "Awọn bọtini ijinna fifi han",
+    "msg.render-distance.increased": "Ijinna fifi han: %s",
+    "msg.render-distance.decreased": "Ijinna fifi han: %s",
+    "msg.render-distance.max": "Ijinna fifi han ti wa ni o pọ julọ (32)",
+    "msg.render-distance.min": "Ijinna fifi han ti wa ni o kere julọ (2)"
+}
